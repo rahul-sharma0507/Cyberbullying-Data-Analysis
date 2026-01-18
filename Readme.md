@@ -57,7 +57,7 @@ The notebook follows a structured ML lifecycle:
 
 ## 📂 Dataset
 
-- **Source**: Cyberbullying Tweets dataset
+- **Source**: Cyberbullying Tweets dataset from Kaggle
 - **Format**: CSV
 - **Text Field**: Tweet content
 - **Target**:
