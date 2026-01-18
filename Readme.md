@@ -51,6 +51,11 @@ The notebook follows a structured ML lifecycle:
 6. **Ensemble Learning**
 7. **Model Persistence**
 
+## 🏗️ System Architecture
+
+![Cyberbullying Detection Architecture](CyberbullyingAIProject.png)
+
+
 ## 🏗️ Architecture & Models Used
 
 ### 🔹 Traditional Machine Learning
