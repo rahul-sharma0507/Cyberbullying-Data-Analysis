@@ -89,9 +89,10 @@ Dependencies are installed dynamically inside the notebook.
 
 1. Open the notebook in **Google Colab**
 2. Mount Google Drive when prompted
-3. Ensure dataset paths are correctly configured
-4. Run cells sequentially from top to bottom
-5. Review evaluation metrics and visualizations
+3. Create a token from HuggingFace to be used.
+4. Ensure dataset paths are correctly configured
+5. Run cells sequentially from top to bottom
+6. Review evaluation metrics and visualizations
 
 ---
 
